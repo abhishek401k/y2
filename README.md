@@ -1,2 +1,1 @@
-# newsAPI
-uma api de noticias com Node, express e mongo db
+used Node as runtime enviroment, mongoDB for database
